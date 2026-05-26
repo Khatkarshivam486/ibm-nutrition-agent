@@ -1,0 +1,19 @@
+{
+  "project_name": "AI-Powered Nutrition Agent",
+  "domain": "Healthcare & Nutrition",
+  "technology": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "RAG",
+    "FAISS"
+  ],
+  "model_used": "Granite-4.0-8B-Instruct",
+  "features": [
+    "Personalized Diet Plans",
+    "Nutrition Tracking",
+    "Food Data Retrieval",
+    "Health Advisory",
+    "Dashboard Visualization"
+  ]
+}
